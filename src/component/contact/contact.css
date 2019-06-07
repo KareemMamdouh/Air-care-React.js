@@ -1,0 +1,26 @@
+.Contact1 {
+    background-color: #f9f9f9
+}
+.col-md-3{
+    background: #00a5ea;
+    color: #fff;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+.col-md-9{
+    background: #fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.contact-form button{
+    background: #25274d;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+.contact-form button:hover{
+    color: #fff;
+    background-color: #00a5ea
+}

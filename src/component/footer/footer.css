@@ -1,0 +1,15 @@
+footer {
+    background-color: #006088;
+    height: 60px;
+    color: #fff;
+    line-height: 60px
+}
+.divimg{
+    height: 185px;
+    background-color: #333
+}
+.img {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+}
