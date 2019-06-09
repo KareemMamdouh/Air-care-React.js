@@ -1,3 +1,4 @@
+website static (Air care ) Features Overview: 1- HTML , 2- CSS , 3-React.js , 4-Responsive Layout Design pages:1- index.html (home) , 2- About us , 3- contact , 4- news API , 5- services
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
